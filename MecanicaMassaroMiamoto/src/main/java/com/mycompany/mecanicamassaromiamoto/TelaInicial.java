@@ -41,7 +41,6 @@ public class TelaInicial extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(0, 0, 0));
-        setPreferredSize(new java.awt.Dimension(1440, 1024));
 
         jPanel2.setBackground(new java.awt.Color(51, 51, 51));
 
@@ -106,7 +105,7 @@ public class TelaInicial extends javax.swing.JFrame {
         });
 
         jButton3.setBackground(new java.awt.Color(249, 249, 249));
-        jButton3.setText("...");
+        jButton3.setText("Nota Fiscal");
 
         btSair.setBackground(new java.awt.Color(249, 249, 249));
         btSair.setText("SAIR");
